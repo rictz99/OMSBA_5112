@@ -1,2 +1,2 @@
-# OMSBA_5112
-Repository for OMSBA 5112 Projects and assignments
+# OMSBA_5112 Assignment 01
+Repository for OMSBA 5112 assignments 01
