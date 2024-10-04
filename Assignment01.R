@@ -11,4 +11,8 @@ library(haven)
 nfhs <- read_dta("IAHR52FL.dta")
 
 #Create smaller database
-nfhs <-  select(nfhs, hhid:shstruc)
+nfhs_new <-  select(nfhs, hhid:shstruc)
+
+
+
+
